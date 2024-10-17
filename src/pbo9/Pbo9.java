@@ -3,7 +3,7 @@ package pbo9;
 public class Pbo9 {
     public static void main(String[] args) {
         System.out.println("Kelas Spider");
-        Spider laba = new Spider(8);
+        Spider laba = new Spider();
         laba.walk();
         laba.eat();
         
