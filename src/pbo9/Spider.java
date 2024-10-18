@@ -2,7 +2,7 @@ package pbo9;
 
 class Spider extends Animal {
 
-    public Spider(int legs) {
+    public Spider() {
         super(8);  // jumlah legs
     }
     
